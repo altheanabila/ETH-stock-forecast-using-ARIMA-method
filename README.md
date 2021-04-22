@@ -8,7 +8,6 @@ On the data processing, we use adjusted closing price in order to run ARIMA meth
 
 2. Import the data into panda
 ![TestImage1](https://github.com/altheanabila/Ethereum-forecast-using-ARIMA-method/blob/main/ETH1.png)
-![TestImage1](https://github.com/altheanabila/Ethereum-forecast-using-ARIMA-method/blob/main/ETH2.png)
 
 3. Processing the lag features
 ![TestImage1](https://github.com/altheanabila/Ethereum-forecast-using-ARIMA-method/blob/main/ETH3.png)
