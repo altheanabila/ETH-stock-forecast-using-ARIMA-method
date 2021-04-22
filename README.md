@@ -25,7 +25,6 @@ On the data processing, we use adjusted closing price in order to run ARIMA meth
 
 ![TestImage1](https://github.com/altheanabila/Ethereum-forecast-using-ARIMA-method/blob/main/ETH6.png)
 
-
 7. Run the forecast model to predict stock price
 
 ![TestImage1](https://github.com/altheanabila/Ethereum-forecast-using-ARIMA-method/blob/main/ETH7.png)
